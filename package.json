@@ -1,12 +1,12 @@
 {
-  "name": "some-mapper-mysql",
+  "name": "some-db-mysql",
   "version": "0.4.0",
   "description": "some mapper to sql",
   "repository": {
     "type": "git",
-    "url": "https://github.com/somejs/some-mapper-mysql.git"
+    "url": "https://github.com/somejs/some-db-mysql.git"
   },
-  "main": "./lib/Mapper/Mysql/",
+  "main": "./lib/Db/Mysql/",
   "scripts": {
     "test": "mocha --reporter spec"
   },

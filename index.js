@@ -1,1 +1,1 @@
-module.exports= require('./lib/Mapper/Mysql/')
+module.exports= require('./lib/Db/Mysql/')

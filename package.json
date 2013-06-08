@@ -11,7 +11,7 @@
     "test": "mocha --reporter spec"
   },
   "dependencies": {
-    "felixge/node-mysql": "latest",
+    "mysql": "latest",
     "sql-query": "latest"
   },
   "devDependencies": {
